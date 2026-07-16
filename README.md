@@ -1,8 +1,10 @@
 <!--
   Animesh Basak · GitHub Profile
   Lead Frontend Engineer · AI Builder
-  Updated: April 2026
+  Updated: July 2026
 -->
+
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,60:E63946,100:1F2937&height=140&section=header&animation=fadeIn" />
 
 <p align="center">
   <img alt="Animesh Basak" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2200&pause=900&color=E63946&center=true&vCenter=true&width=820&lines=Animesh+Basak;Lead+Frontend+Engineer+%C2%B7+AI+Builder;React+%C2%B7+TypeScript+%C2%B7+Next.js+%C2%B7+Claude+API;Shipping+UI+for+150M%2B+monthly+users." />
@@ -39,11 +41,11 @@ I architect for scale. Mentor for compounding. Ship product loops driven by expe
 ## ◢ Now — what's shipping this week
 
 ```diff
-+ Lakshya Hub  · Phase 0+1 live · 7-source unified job search live · 198 tests passing
-+ FRIDAY       · Phase 4 shipped — arena routing + cost-aware brain + dashboard
-+ SuperAgent   · v2.2 public on GitHub · 8 platforms · ~95% token savings
-~ Portfolio    · Editorial redesign · 4 live AI product cards
-* insanemesh   · Day 42 · zero-touch pipeline at 7PM IST
++ Lakshya       · "Verified Alive" job search live · 20+ board/ATS adapters · 730 tests passing
++ PAARTH Agent  · Phase 1 shipped — kernel router + safety gate + pluggable LLM brains · 380 tests
++ PAARTH        · v4 public on GitHub (ex-SuperAgent) · skill routing brain · ~95% token savings
+~ Portfolio     · v6 "Type + Nerve" redesign live · accent picker + legacy toggle
+* insanemesh    · zero-touch pipeline at 7PM IST
 ```
 
 ## ◢ Live AI Lab
@@ -54,40 +56,40 @@ I architect for scale. Mentor for compounding. Ship product loops driven by expe
 <tr>
 <td width="50%" valign="top">
 
-### 🔴 Lakshya Hub
+### 🔴 Lakshya
 **Unified AI Job Search OS**
 
-7-source unified search · LaTeX-Article PDF resume engine with multi-page sidebar · QStash-backed ATS fan-out · Sentry observability · 198 tests passing.
+"Verified Alive" job search — 20+ board/ATS adapters (Greenhouse, Lever, Ashby, Personio, Teamtailor…) with liveness checks · AI fit scoring · LaTeX-Article PDF resume engine · 730 tests passing.
 
-`Next.js 15` · `Supabase SSR` · `Claude API` · `QStash` · `Sentry`
+`Next.js 16` · `Supabase SSR` · `Claude API` · `QStash` · `Sentry`
 
-→ **Live:** [getlakshya.vercel.app](https://getlakshya.vercel.app/)
+→ **Live:** [getlakshya.animeshbasak.com](https://getlakshya.animeshbasak.com/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🟠 FRIDAY
-**Local-first macOS AI Agent**
+### 🟠 PAARTH Agent
+**Standalone LLM-agnostic Agent**
 
-Phase 3+4 shipped: arena (multi-model bidding) + cost-aware brain + budget guard + scheduler + skills + dashboard. Memory graph + safety shadow-sim. Runs on M5 Pro 48GB via Ollama.
+FRIDAY evolved: deterministic Python kernel (router + reversibility-aware safety gate + playbooks) with pluggable LLM brains — Anthropic / Groq / Ollama, tool-call repair for weak models. 380 tests passing.
 
-`Python` · `Ollama` · `SQLite` · `Telegram` · `Arena routing`
+`Python` · `Ollama` · `Anthropic` · `Groq` · `SafetyGate`
 
-→ **Status:** Phase 5 next — voice + browser worker
+→ **Status:** Phase 2 next — MCP server face for every IDE
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🟢 SuperAgent
-**Cost-aware AI Routing Brain**
+### 🟢 PAARTH
+**Cost-aware AI Routing Brain** *(ex-SuperAgent)*
 
-v2.2 public release. Across **8 platforms** — Claude Code, Cursor, Copilot, Codex, Gemini CLI… Reads intent, scores all skills, picks the cheapest viable model, auto-invokes the chain. **~95% token savings.**
+v4 public release. Across **8 platforms** — Claude Code, Cursor, Copilot, Codex, Gemini CLI… Reads intent, scores all skills, picks the cheapest viable model, auto-invokes the chain. **~95% token savings.**
 
 `Claude Code` · `Skills` · `Cost Brain` · `MCP` · `MIT`
 
-→ **Public:** [github.com/animeshbasak/SuperAgent](https://github.com/animeshbasak/SuperAgent)
+→ **Public:** [github.com/animeshbasak/Paarth](https://github.com/animeshbasak/Paarth)
 
 </td>
 <td width="50%" valign="top">
@@ -123,7 +125,7 @@ Gemini → Groq → Puppeteer → Telegram → Meta API. Fires at 7PM IST daily.
 
 **Frontend at scale**
 
-React · TypeScript · Next.js 15 · SSR · Web Vitals · code splitting · GrowthBook rollouts · V2L + Superset monitoring · accessibility · banking UI
+React · TypeScript · Next.js 16 · SSR · Web Vitals · code splitting · GrowthBook rollouts · V2L + Superset monitoring · accessibility · banking UI
 
 </td>
 <td width="33%" valign="top">
@@ -146,7 +148,7 @@ HLD + LLD with architect sign-off · experimentation frameworks · Sentry-driven
 ## ◢ Stack
 
 ```text
-Frontend     React · TypeScript · Next.js 15 · Redux · Zustand · Framer Motion
+Frontend     React · TypeScript · Next.js 16 · Redux · Zustand · Framer Motion
 Backend      Node.js · Spring Boot · Supabase · Postgres · REST · Edge Functions
 AI / LLM     Claude API · OpenAI · Gemini · Groq · Ollama · MCP · QStash
 Performance  SSR · Lighthouse · Web Vitals · Code Splitting · Edge Caching
@@ -162,6 +164,10 @@ Tooling      Docker · Jenkins · GitHub Actions · Vercel · Webpack · Vite ·
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=animeshbasak&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&icon_color=E63946&title_color=E63946" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=animeshbasak&theme=tokyonight&hide_border=true&ring=E63946&fire=E63946&currStreakLabel=E63946" />
+</p>
+
+<p align="center">
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=animeshbasak&bg_color=00000000&color=8B949E&line=E63946&point=FFFFFF&area=true&area_color=E63946&hide_border=true&hide_title=true" alt="Contribution graph" />
 </p>
 
 <p align="center">
@@ -192,12 +198,14 @@ Tooling      Docker · Jenkins · GitHub Actions · Vercel · Webpack · Vite ·
   <img src="https://komarev.com/ghpvc/?username=animeshbasak&label=profile+views&color=E63946&style=flat-square" alt="Profile views" />
 </p>
 
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,60:E63946,100:1F2937&height=100&section=footer" />
+
 <p align="center">
-  <a href="https://github.com/animeshbasak/SuperAgent">
-    <img src="https://img.shields.io/badge/crafted_with-SuperAgent-E63946?style=flat-square&logo=anthropic&logoColor=white" alt="Crafted with SuperAgent" />
+  <a href="https://github.com/animeshbasak/Paarth">
+    <img src="https://img.shields.io/badge/crafted_with-PAARTH-E63946?style=flat-square&logo=anthropic&logoColor=white" alt="Crafted with PAARTH" />
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/cost-aware_AI_routing-1F2937?style=flat-square" alt="Cost-aware AI routing" />
 </p>
 
-<p align="center"><sub>This README was authored by my own AI orchestration system — <a href="https://github.com/animeshbasak/SuperAgent"><b>SuperAgent</b></a> — which routed the task across the right skills and shipped it.</sub></p>
+<p align="center"><sub>This README was authored by my own AI orchestration system — <a href="https://github.com/animeshbasak/Paarth"><b>PAARTH</b></a> — which routed the task across the right skills and shipped it.</sub></p>
