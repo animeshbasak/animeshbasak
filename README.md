@@ -4,10 +4,12 @@
   Updated: July 2026
 -->
 
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,60:E63946,100:1F2937&height=140&section=header&animation=fadeIn" />
-
 <p align="center">
-  <img alt="Animesh Basak" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2200&pause=900&color=E63946&center=true&vCenter=true&width=820&lines=Animesh+Basak;Lead+Frontend+Engineer+%C2%B7+AI+Builder;React+%C2%B7+TypeScript+%C2%B7+Next.js+%C2%B7+Claude+API;Shipping+UI+for+150M%2B+monthly+users." />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg" />
+    <img width="100%" alt="Animesh Basak — Lead Frontend Engineer · AI Builder" src="assets/hero-dark.svg" />
+  </picture>
 </p>
 
 <p align="center">
@@ -27,7 +29,7 @@
 <p align="center"><i>Frontend systems that survive contact with 150M+ users.<br/>AI products that actually ship.</i></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=E63946&height=2&section=header" />
+  <img width="100%" alt="" src="assets/divider.svg" />
 </p>
 
 ## ◢ About
@@ -175,7 +177,7 @@ Tooling      Docker · Jenkins · GitHub Actions · Vercel · Webpack · Vite ·
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=E63946&height=2&section=footer" />
+  <img width="100%" alt="" src="assets/divider.svg" />
 </p>
 
 ## ◢ Connect

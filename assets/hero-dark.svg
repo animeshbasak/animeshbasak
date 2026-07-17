@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="260" viewBox="0 0 940 260" role="img" aria-label="Animesh Basak — Lead Frontend Engineer and AI Builder">
+  <style>
+    .mono { font-family: ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, Consolas, 'Courier New', monospace; }
+    .name { font-size: 54px; font-weight: 800; letter-spacing: -1.5px; }
+    .role { font-size: 20px; font-weight: 600; fill: #8B949E; }
+    .rot  { font-size: 15px; fill: #8B949E; }
+    .stat { font-size: 12px; font-weight: 700; letter-spacing: 2px; fill: #22C55E; }
+    .tline { font-size: 13px; }
+    .grid { opacity: .5; }
+    .cursor { animation: blink 1.1s steps(2, start) infinite; }
+    @keyframes blink { to { opacity: 0; } }
+    .r1 { animation: rot1 12s infinite .9s; }
+    .r2 { opacity: 0; animation: rot 12s infinite 4.9s; }
+    .r3 { opacity: 0; animation: rot 12s infinite 8.9s; }
+    @keyframes rot1 {
+      0% { opacity: 1; }
+      30% { opacity: 1; }
+      34% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    @keyframes rot {
+      0% { opacity: 0; transform: translateY(6px); }
+      4% { opacity: 1; transform: translateY(0); }
+      30% { opacity: 1; }
+      34% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+  </style>
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#30363D"/>
+    </pattern>
+    <linearGradient id="shine" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="940" y2="0" spreadMethod="pad">
+      <stop offset="0" stop-color="#E6EDF3"/>
+      <stop offset="0.42" stop-color="#E6EDF3"/>
+      <stop offset="0.5" stop-color="#E63946"/>
+      <stop offset="0.58" stop-color="#E6EDF3"/>
+      <stop offset="1" stop-color="#E6EDF3"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-940 0" to="940 0" dur="5.5s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect class="grid" width="940" height="260" fill="url(#dots)"/>
+  <g class="fadeup d1">
+    <circle cx="46" cy="47" r="4" fill="#22C55E">
+      <animate attributeName="opacity" values="1;.25;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text class="mono stat" x="60" y="52">OPEN TO STAFF AI ENG — NEW DELHI</text>
+  </g>
+  <g class="fadeup d2">
+    <text class="mono name" x="40" y="126" fill="url(#shine)">ANIMESH BASAK</text>
+    <rect class="cursor" x="478" y="86" width="10" height="44" fill="#E63946"/>
+  </g>
+  <line class="uline" x1="40" y1="148" x2="430" y2="148" stroke="#E63946" stroke-width="3"/>
+  <text class="mono role fadeup d3" x="40" y="190">Lead Frontend Engineer · AI Builder</text>
+  <g>
+    <text class="mono rot r1" x="40" y="224">&gt; React · TypeScript · Next.js 16 · Claude API</text>
+    <text class="mono rot r2" x="40" y="224">&gt; Shipping UI for 150M+ monthly users</text>
+    <text class="mono rot r3" x="40" y="224">&gt; Agents · MCP · cost-aware routing · local-first</text>
+  </g>
+  <g class="term">
+    <rect x="628" y="64" width="272" height="132" rx="10" fill="#161B22" stroke="#30363D"/>
+    <circle cx="650" cy="86" r="5" fill="#FF5F56"/>
+    <circle cx="668" cy="86" r="5" fill="#FFBD2E"/>
+    <circle cx="686" cy="86" r="5" fill="#27C93F"/>
+    <text class="mono tline" x="646" y="122" fill="#E6EDF3">$ paarth do "ship"</text>
+    <text class="mono tline" x="646" y="148" fill="#22C55E">✓ 730 tests green</text>
+    <text class="mono tline" x="646" y="174" fill="#8B949E">✓ deployed → vercel</text>
+  </g>
+</svg>
