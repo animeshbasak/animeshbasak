@@ -44,18 +44,18 @@
     <circle cx="46" cy="47" r="4" fill="#22C55E">
       <animate attributeName="opacity" values="1;.25;1" dur="1.8s" repeatCount="indefinite"/>
     </circle>
-    <text class="mono stat" x="60" y="52">OPEN TO STAFF AI ENG — NEW DELHI</text>
+    <text class="mono stat" x="60" y="52">OPEN TO LEAD FRONTEND ROLES — DELHI NCR</text>
   </g>
   <g class="fadeup d2">
     <text class="mono name" x="40" y="126" fill="url(#shine)">ANIMESH BASAK</text>
     <rect class="cursor" x="478" y="86" width="10" height="44" fill="#E63946"/>
   </g>
   <line class="uline" x1="40" y1="148" x2="430" y2="148" stroke="#E63946" stroke-width="3"/>
-  <text class="mono role fadeup d3" x="40" y="190">Lead Frontend Engineer · AI Builder</text>
+  <text class="mono role fadeup d3" x="40" y="190">Lead Frontend Engineer · BFF · AI</text>
   <g>
-    <text class="mono rot r1" x="40" y="224">&gt; React · TypeScript · Next.js 16 · Claude API</text>
-    <text class="mono rot r2" x="40" y="224">&gt; Shipping UI for 150M+ monthly users</text>
-    <text class="mono rot r3" x="40" y="224">&gt; Agents · MCP · cost-aware routing · local-first</text>
+    <text class="mono rot r1" x="40" y="224">&gt; React · TypeScript · React Native · Next.js</text>
+    <text class="mono rot r2" x="40" y="224">&gt; Journeys for 150M+ monthly users at Airtel</text>
+    <text class="mono rot r3" x="40" y="224">&gt; MCP · agents · open-source developer tools</text>
   </g>
   <g class="term">
     <rect x="628" y="64" width="272" height="132" rx="10" fill="#161B22" stroke="#30363D"/>
@@ -63,7 +63,7 @@
     <circle cx="668" cy="86" r="5" fill="#FFBD2E"/>
     <circle cx="686" cy="86" r="5" fill="#27C93F"/>
     <text class="mono tline" x="646" y="122" fill="#E6EDF3">$ paarth do "ship"</text>
-    <text class="mono tline" x="646" y="148" fill="#22C55E">✓ 730 tests green</text>
+    <text class="mono tline" x="646" y="148" fill="#22C55E">✓ route picked · asks first</text>
     <text class="mono tline" x="646" y="174" fill="#8B949E">✓ deployed → vercel</text>
   </g>
 </svg>
