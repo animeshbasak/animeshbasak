@@ -32,46 +32,37 @@ I own journeys end to end: React and TypeScript front ends on mobile web, deskto
 
 ## Open source
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<a href="https://github.com/animeshbasak/Paarth">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-paarth-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/card-paarth-light.svg" />
+    <img width="100%" alt="PAARTH: a routing layer for AI coding tools. Claude Code, MCP, Python, MIT. v4.1.0" src="assets/card-paarth-dark.svg" />
+  </picture>
+</a>
 
-### PAARTH
-**A routing layer for AI coding tools**
-
-Picks the workflow and skills for each request in Claude Code, Cursor or Copilot, keeps memory between sessions, asks before risky commands, and can switch to a free local model.
-
-`Claude Code` · `MCP` · `Python` · `MIT`
-
-→ [github.com/animeshbasak/Paarth](https://github.com/animeshbasak/Paarth) · v4.1.0
-
-</td>
-<td width="50%" valign="top">
-
-### Trinetra
-**Keeps the Mac awake while AI agents work**
-
-A macOS menu bar app and CLI that holds the Mac awake, lid closed included, exactly while Claude Code, Codex, Gemini CLI or Cursor is working, then lets it sleep. Live agent list, session summaries and a system monitor.
-
-`Swift` · `SwiftUI` · `agent hooks` · `MIT`
-
-→ [trinetra.animeshbasak.com](https://trinetra.animeshbasak.com/) · v0.1
-
-</td>
-</tr>
-</table>
+<a href="https://trinetra.animeshbasak.com/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-trinetra-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/card-trinetra-light.svg" />
+    <img width="100%" alt="Trinetra: keeps the Mac awake while AI agents work. Swift, SwiftUI, MIT. v0.1" src="assets/card-trinetra-dark.svg" />
+  </picture>
+</a>
 
 Also building, not public yet: **Lakshya Hub** (résumé to tracked application, personal beta) and **Glass** (a Fire TV home screen with a Claude assistant, in daily use). Demos at [animeshbasak.com](https://animeshbasak.com/).
 
 ## Experience
 
-| Period | Company | Role | Highlight |
-|---|---|---|---|
-| 2025 → | **Airtel Digital** | Lead Engineer | Lead 5–7 engineers on Airtel Thanks journeys (150M+ MAU); Gen4 Self-KYC revamp with one unified BFF family; HLD/LLD and final production review |
-| 2024 → 2025 | MakeMyTrip | Senior Software Engineer II, Frontend | Hotels booking PWA and desktop web: Lighthouse 6 → 8–9; fixed a defect behind 1,000+ Sentry errors in 48 hours |
-| 2021 → 2024 | Paytm | Software Engineer | Legacy-to-React migration for journeys serving 3M+ merchants; Soundbox checkout |
-| 2021 | Sparklin Innovations | Frontend Developer | ICICI Bank Nirvana internet banking |
-| 2018 → 2021 | Infosys | Systems Engineer | ANZ Bank FINACLE |
+**Airtel Digital** · Lead Engineer · 2025 →<br>
+Lead 5–7 engineers on Airtel Thanks journeys (150M+ MAU). Gen4 Self-KYC revamp with one unified BFF family. HLD/LLD and final production review.
+
+**MakeMyTrip** · Senior Software Engineer II, Frontend · 2024 → 2025<br>
+Hotels booking PWA and desktop web: Lighthouse 6 → 8–9. Fixed a defect behind 1,000+ Sentry errors in 48 hours.
+
+**Paytm** · Software Engineer · 2021 → 2024<br>
+Legacy-to-React migration for journeys serving 3M+ merchants. Soundbox checkout.
+
+**Sparklin Innovations** · Frontend Developer · 2021 — ICICI Bank Nirvana internet banking<br>
+**Infosys** · Systems Engineer · 2018 → 2021 — ANZ Bank FINACLE
 
 ## Stack
 
