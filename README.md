@@ -61,8 +61,11 @@ Hotels booking PWA and desktop web: Lighthouse 6 → 8–9. Fixed a defect behin
 **Paytm** · Software Engineer · 2021 → 2024<br>
 Legacy-to-React migration for journeys serving 3M+ merchants. Soundbox checkout.
 
-**Sparklin Innovations** · Frontend Developer · 2021 — ICICI Bank Nirvana internet banking<br>
-**Infosys** · Systems Engineer · 2018 → 2021 — ANZ Bank FINACLE
+**Sparklin Innovations** · Frontend Developer · 2021<br>
+Frontend lead for Nirvana, the revamp of ICICI Bank's internet banking, in Angular 8. Built several modules from scratch.
+
+**Infosys** · Systems Engineer · 2018 → 2021<br>
+SDET on ANZ Bank's FINACLE: UI and API test automation with WebdriverIO, JavaScript and Postman.
 
 ## Stack
 
