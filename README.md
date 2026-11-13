@@ -66,12 +66,10 @@ Legacy-to-React migration for journeys serving 3M+ merchants. Soundbox checkout.
 
 ## Stack
 
-```text
-Frontend      React · TypeScript · Next.js · React Native · Redux · Zustand · design systems
-Architecture  Micro-frontends · Module Federation · SSR · Core Web Vitals · HLD/LLD
-BFF/Backend   BFF orchestration · REST · Spring Boot · Node.js · PostgreSQL
-AI            Claude Code · Cursor · MCP · LLM applications · agent hooks · Ollama
-Delivery      Vitest · Jest · RTL · Sentry · GrowthBook · Jenkins · GitHub Actions
-```
+**Frontend** · React · TypeScript · Next.js · React Native · Redux · Zustand · design systems<br>
+**Architecture** · Micro-frontends · Module Federation · SSR · Core Web Vitals · HLD/LLD<br>
+**BFF/Backend** · BFF orchestration · REST · Spring Boot · Node.js · PostgreSQL<br>
+**AI** · Claude Code · Cursor · MCP · LLM applications · agent hooks · Ollama<br>
+**Delivery** · Vitest · Jest · RTL · Sentry · GrowthBook · Jenkins · GitHub Actions
 
 <p align="center"><sub>New Delhi, India · <a href="https://animeshbasak.com/">animeshbasak.com</a> · animeshsbasak@gmail.com</sub></p>
