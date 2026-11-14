@@ -65,7 +65,7 @@ Legacy-to-React migration for journeys serving 3M+ merchants. Soundbox checkout.
 Frontend lead for Nirvana, the revamp of ICICI Bank's internet banking, in Angular 8. Built several modules from scratch.
 
 **Infosys** · Systems Engineer · 2018 → 2021<br>
-SDET on ANZ Bank's FINACLE: UI and API test automation with WebdriverIO, JavaScript and Postman.
+ANZ Bank's FINACLE: built React and Angular UI modules and automated their UI and API tests with WebdriverIO and Postman.
 
 ## Stack
 
